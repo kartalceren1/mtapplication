@@ -22,7 +22,6 @@ A machine‑translation web application built with Django, designed to provide t
   - [Installation](#installation)  
   - [Running Locally](#running‑locally)  
 - [Models Used](#models‑used)  
-- [Configuration](#configuration)  
 - [Usage](#usage)  
 
 ## About  
