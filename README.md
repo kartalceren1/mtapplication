@@ -24,10 +24,6 @@ A machine‑translation web application built with Django, designed to provide t
 - [Models Used](#models‑used)  
 - [Configuration](#configuration)  
 - [Usage](#usage)  
-- [Folder Structure](#folder‑structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
 
 ## About  
 This project implements a web‑based machine translation application. The front‑end uses HTML, CSS, and JavaScript, and the back‑end is developed with the Django framework (Python).  
