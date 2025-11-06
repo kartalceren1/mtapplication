@@ -1,4 +1,4 @@
-# mtapplication  
+# Machine Translation Application
 A machine‑translation web application built with Django, designed to provide translation functionality through a user‑friendly interface.
 
 <p align="center">
