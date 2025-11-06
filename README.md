@@ -1,6 +1,18 @@
 # mtapplication  
 A machine‑translation web application built with Django, designed to provide translation functionality through a user‑friendly interface.
 
+<p align="center">
+  <img src="images/homepage.png" alt="Homepage" width="400">
+  <img src="images/register.png" alt="Register Page" width="400">
+  <img src="images/login.png" alt="Login Page" width="400">
+  <img src="images/passwordreset.png" alt="Password Reset" width="400">
+  <img src="images/changepassword.png" alt="Change Password" width="400">
+  <img src="images/translate.png" alt="Translate Page" width="400">
+  <img src="images/translatepage.png" alt="Translation Result" width="400">
+  <img src="images/history.png" alt="Translation History" width="400">
+</p>
+
+
 ## Table of Contents  
 - [About](#about)  
 - [Features](#features)  
@@ -9,7 +21,7 @@ A machine‑translation web application built with Django, designed to provide t
   - [Prerequisites](#prerequisites)  
   - [Installation](#installation)  
   - [Running Locally](#running‑locally)  
-- [Model(s) Used](#models‑used)  
+- [Models Used](#models‑used)  
 - [Configuration](#configuration)  
 - [Usage](#usage)  
 - [Folder Structure](#folder‑structure)  
