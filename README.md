@@ -55,7 +55,6 @@ The aim is to allow users to input text in one language and obtain translations 
 - Python 3.x  
 - pip (Python package installer)  
 - A virtual environment tool (recommended)  
-- (Optional) A choice of translation API/engine if you want to extend beyond the built‑in logic  
 
 ### Installation  
 1. Clone the repository:  
