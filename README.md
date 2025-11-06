@@ -97,13 +97,13 @@ python manage.py runserver
 ### Models Used
 This application uses the following translation models:
 
-ckartal/english-to-turkish-finetuned-model — a fine‑tuned version of a MarianMT model for English → Turkish translation. (https://huggingface.co/ckartal/english-to-turkish-finetuned-model)
+- ckartal/english-to-turkish-finetuned-model — a fine‑tuned version of a MarianMT model for English → Turkish translation. (https://huggingface.co/ckartal/english-to-turkish-finetuned-model)
 
 Based on the Helsinki‑NLP opus‑tatoeba‑en‑tr dataset (Tatoeba) for training.
 
 Achieved BLEU score of about 51.2 after fine‑tuning.
 
-ckartal/turkish-to-english-finetuned-model — a fine‑tuned version of a MarianMT model for Turkish → English translation. (https://huggingface.co/ckartal/turkish-to-english-finetuned-model)
+- ckartal/turkish-to-english-finetuned-model — a fine‑tuned version of a MarianMT model for Turkish → English translation. (https://huggingface.co/ckartal/turkish-to-english-finetuned-model)
 
 Based on the Helsinki‑NLP opus-mt-tr-en dataset (Tatoeba) for training.
 
